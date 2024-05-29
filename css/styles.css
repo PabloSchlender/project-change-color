@@ -29,33 +29,43 @@ html {
 #colorfdc437 {
     background-color: #fdc437;
 }
-#color01baef{
+
+#color01baef {
     background-color: #01baef;
 }
-#color0cbaba{
+
+#color0cbaba {
     background-color: #0cbaba;
 }
-#color380036{
+
+#color380036 {
     background-color: #380036;
 }
-#color5da9e9{
+
+#color5da9e9 {
     background-color: #5da9e9;
 }
-#color0c6834{
+
+#color0c6834 {
     background-color: #0c6834;
 }
-#color4a9ccf{
+
+#color4a9ccf {
     background-color: #4a9ccf;
 }
-#color661f45{
+
+#color661f45 {
     background-color: #661f45;
 }
-#colorf43e3d{
+
+#colorf43e3d {
     background-color: #f43e3d;
 }
-#color61e786{
+
+#color61e786 {
     background-color: #61e786;
 }
+
 .colors>* {
     height: 36px;
     width: 36px;
@@ -64,4 +74,11 @@ html {
     box-shadow: 0px 4px 10px #aaa;
     border: 2px solid #aaa;
     cursor: pointer;
+}
+
+#lorem {
+    font-family: "Sacramento", cursive;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0044ff;
 }
